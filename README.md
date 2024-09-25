@@ -41,7 +41,7 @@
   
   
   ## Estudando
-  ![Flask](https://img.shields.io/badge/flask-0d1117.svg?style=for-the-badge&logo=flask&logoColor=white)
+  ![Flask](https://img.shields.io/badge/flask-0d1117.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 </div>
