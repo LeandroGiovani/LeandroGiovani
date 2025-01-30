@@ -16,9 +16,8 @@
 <div align="center">
   
   ## Contato
-  <a href="https://www.instagram.com/leandro__giovani/" target="_blank"><img src="https://img.shields.io/badge/-leandro__giovani-0D1117?style=for-the-badge&logo=instagram&logoColor=23E4405"></a>
   [![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=D70A53)](https://www.instagram.com/leandro__giovani/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-maciel-giovani-2874501b3/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-maciel-giovani-2874501b3/)
   
   ## Principais Linguagens
   ![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=23E34F26)
