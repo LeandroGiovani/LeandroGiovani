@@ -28,7 +28,7 @@
   ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0d1117)&nbsp;
   ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)&nbsp;
-  ![Markdown](https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=white)&nbsp;
+  ![Markdown](https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)&nbsp;
 
   ## Ferramentas
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
