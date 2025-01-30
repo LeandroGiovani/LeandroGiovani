@@ -17,7 +17,6 @@
   
   ## Contato
   [![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=D70A53)](https://www.instagram.com/leandro__giovani/)
-  <br>
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-maciel-giovani-2874501b3/)
   
   ## Principais Linguagens
