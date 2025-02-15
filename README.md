@@ -29,9 +29,9 @@
   
   ## Outras Tecnologias
   ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0d1117)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%0D1117.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-  ![Express](https://img.shields.io/badge/express.js-%0D1117.svg?style=for-the-badge&logo=express&logoColor=%0D1117)&nbsp;
-  ![Vite](https://img.shields.io/badge/vite-%0D1117.svg?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+  ![Express](https://img.shields.io/badge/express.js-0D1117.svg?style=for-the-badge&logo=express&logoColor=%0D1117)&nbsp;
+  ![Vite](https://img.shields.io/badge/vite-0D1117.svg?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
   ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=white)&nbsp;
   ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
   ![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)&nbsp;
@@ -39,8 +39,8 @@
   ![Markdown](https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)&nbsp;
 
   ## Serviços de Hospedagem e Computação em Nuvem
-  ![Netlify](https://img.shields.io/badge/netlify-%0D1117.svg?style=for-the-badge&logo=netlify&logoColor=#0D1117)&nbsp;
-  ![Render](https://img.shields.io/badge/Render-%0D1117.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
+  ![Netlify](https://img.shields.io/badge/netlify-0D1117.svg?style=for-the-badge&logo=netlify&logoColor=#0D1117)&nbsp;
+  ![Render](https://img.shields.io/badge/Render-0D1117.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
 
   ## Ferramentas
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
