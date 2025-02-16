@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=135&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:#5433FF,100:#A5FECB&height=135&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Leandro+Maciel+Giovani;Tenho+18+anos;Sou+brasileiro,+SP;Técnico+em+Desenvolvimento+de+Sistemas+pelo+Senai;Cursando+Sistemas+de+Informação+na+UNIFEB;Seja+bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
