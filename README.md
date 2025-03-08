@@ -53,6 +53,7 @@
   ![Trello](https://img.shields.io/badge/Trello-0D1117.svg?style=for-the-badge&logo=Trello&logoColor=085DD8)
   ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=00ADEF)&nbsp;
   ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 </div>
 
