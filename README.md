@@ -24,8 +24,8 @@
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0d1117)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
   ![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-  ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
   ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+  ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
   
   ## Outras Tecnologias
   ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0d1117)&nbsp;
@@ -42,6 +42,7 @@
   ## Serviços de Hospedagem e Computação em Nuvem
   ![Netlify](https://img.shields.io/badge/netlify-0D1117.svg?style=for-the-badge&logo=netlify&logoColor=#0D1117)&nbsp;
   ![Render](https://img.shields.io/badge/Render-0D1117.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
+  ![Vercel](https://img.shields.io/badge/vercel-0D1117.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
   ## Ferramentas
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
