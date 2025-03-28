@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5b5b5b,30:dedede,50:fff,70:dedede,100:5b5b5b&height=135&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Leandro+Maciel+Giovani;Tenho+18+anos;Sou+brasileiro,+SP;Técnico+em+Desenvolvimento+de+Sistemas+pelo+SENAI;Cursando+Sistemas+de+Informação+na+UNIFEB;Seja+bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Leandro+Maciel+Giovani;Tenho+18+anos;Sou+brasileiro,+SP;Técnico+em+Desenvolvimento+de+Sistemas+SENAI;Cursando+Sistemas+de+Informação+na+UNIFEB;Seja+bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=LeandroGiovani&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=a0a0a0&bg_color=0d1117" alt="Leandro Maciel Giovani github stats"/> 
