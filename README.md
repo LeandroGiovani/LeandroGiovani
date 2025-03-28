@@ -23,18 +23,18 @@
   ![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=23E34F26)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0d1117)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-  ![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+  ![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=539e43)&nbsp;
   ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
   ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
   
   ## Outras Tecnologias
   ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0d1117)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117.svg?style=for-the-badge&logo=mongodb&logoColor=4aaa46)&nbsp;
   ![Express](https://img.shields.io/badge/express.js-0D1117.svg?style=for-the-badge&logo=express&logoColor=%0D1117)&nbsp;
-  ![Vite](https://img.shields.io/badge/vite-0D1117.svg?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
-  ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+  ![Vite](https://img.shields.io/badge/vite-0D1117.svg?style=for-the-badge&logo=vite&logoColor=ffcd25)&nbsp;
+  ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777bb3)&nbsp;
   <br>
-  ![C#](https://img.shields.io/badge/c%23-0D1117.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
+  ![C#](https://img.shields.io/badge/c%23-0D1117.svg?style=for-the-badge&logo=csharp&logoColor=9b4f97)&nbsp;
   ![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)&nbsp;
   ![Flask](https://img.shields.io/badge/flask-0d1117.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
   ![Markdown](https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)&nbsp;
