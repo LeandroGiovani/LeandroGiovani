@@ -70,6 +70,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu"/>
   <img src="https://img.shields.io/badge/Office-0D1117?style=for-the-badge&logo=microsoft-office"/>
 </p>
+<br>
 
 ---
 
