@@ -32,8 +32,11 @@
   <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=blue"/>
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js"/>
+  <br>
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php"/>
 </p>
 
 <h3 align="center">💻 Outras Tecnologias</h3>
@@ -41,12 +44,10 @@
   <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql"/>
   <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express"/>
-  <img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react"/>
   <br>
   <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp"/>
   <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask"/>
   <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite"/>
-  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php"/>
   <img src="https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=markdown"/>
 </p>
 
