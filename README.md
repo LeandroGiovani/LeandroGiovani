@@ -7,15 +7,14 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/LeandroGiovani">
-    <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=LeandroGiovani&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=a0a0a0&bg_color=0d1117" alt="GitHub Stats"/>
-    <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroGiovani&layout=compact&hide_border=true&title_color=fff&text_color=a0a0a0&bg_color=0d1117" alt="Top Langs"/>
-  </a>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?&username=LeandroGiovani&theme=github_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeandroGiovani&theme=github_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeandroGiovani&theme=github_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeandroGiovani&theme=github_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeandroGiovani&theme=github_dark&utcOffset=-3" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LeandroGiovani&theme=onestar&row=1&no-bg=true&column=6&margin-w=20&margin-h=20" />
-</p>
+---
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeandroGiovani&bg_color=0d1117&color=f2f2f2&line=aaaaaa&point=ffffff&area=false&hide_border=true" />
