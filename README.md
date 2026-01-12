@@ -7,11 +7,11 @@
 </p>
 
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?&username=LeandroGiovani&theme=github_dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeandroGiovani&theme=github_dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeandroGiovani&theme=github_dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeandroGiovani&theme=github_dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeandroGiovani&theme=github_dark&utcOffset=-3" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?&username=LeandroGiovani&theme=dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeandroGiovani&theme=dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeandroGiovani&theme=dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeandroGiovani&theme=dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeandroGiovani&theme=dark&utcOffset=-3" />
 </div>
 
 ---
