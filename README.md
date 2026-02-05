@@ -3,7 +3,7 @@
 <h1 align="center">Olá, eu sou o Leandro Giovani 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=fff&size=25&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Front-end+em+formação;Técnico+em+Desenvolvimento+de+Sistemas+%7C+SENAI;Graduando+em+Sistemas+de+Informação+na+UNIFEB;Bem-vindo+ao+meu+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=fff&size=25&center=true&vCenter=true&width=1000&lines=Desenvolvedor+FullStack+em+formação;Técnico+em+Desenvolvimento+de+Sistemas+%7C+SENAI;Graduando+em+Sistemas+de+Informação+na+UNIFEB;Bem-vindo+ao+meu+perfil!" />
 </p>
 
 <div align="center">
