@@ -41,6 +41,7 @@
 <h3 align="center">💻 Outras Tecnologias</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql"/>
   <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express"/>
   <br>
@@ -55,6 +56,9 @@
   <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel"/>
   <img src="https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify"/>
   <img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render"/>
+  <br>
+  <img src="https://img.shields.io/badge/AWS-0D1117.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GoogleCloud-0D1117.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
 
 <h3 align="center">🛠️ Ferramentas</h3>
@@ -63,6 +67,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-0D1117?style=for-the-badge&logo=visualstudio"/>
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Postman-0D1117.svg?style=for-the-badge&logo=Postman&logoColor=FF6C37"/>
   <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma"/>
   <br>
   <img src="https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello"/>
