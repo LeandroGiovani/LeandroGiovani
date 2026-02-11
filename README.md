@@ -75,6 +75,12 @@
   <img src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu"/>
   <img src="https://img.shields.io/badge/Office-0D1117?style=for-the-badge&logo=microsoft-office"/>
 </p>
+
+<h2 align="center">📚 Em Estudo</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+</p>
 <br>
 
 ---
@@ -85,6 +91,7 @@
 <p align="center">
   <a href="https://www.instagram.com/leandro__giovani/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=D70A53"/></a>
   <a href="https://www.linkedin.com/in/leandro-maciel-giovani-2874501b3/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:leandrogiovani@outlook.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF"/></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5b5b5b,30:dedede,50:fff,70:dedede,100:5b5b5b&height=135&section=footer"/>
